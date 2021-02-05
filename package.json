@@ -1,0 +1,14 @@
+{
+  "name": "mysecondapp",
+  "version": "1.0.0",
+  "description": "My second funky web app",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Dan Frost",
+  "license": "ISC",
+  "dependencies": {
+    "http": "0.0.1-security"
+  }
+}
